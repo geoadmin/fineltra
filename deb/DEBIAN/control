@@ -1,0 +1,9 @@
+Package: libpostrgesql-9.4-fineltra
+Version: 0.0-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: postgresql-9.4 (>= 9.4), libproj0 (>= 4.8.0), postgresql-9.4-postgis (>= 2.1.4), proj-data (>= 4.8.0)
+Maintainer: Andrea Borghi <andrea.borghi@swisstopo.ch>
+Description: fineltra lv03 to lv95 reprojection based on postgis extention for postgresql-9.4
+  Full description at https://github.com/geoadmin/lib-fineltra
