@@ -12,3 +12,4 @@ fineltra.control
 !regress/*.sql
 regress/results/
 regress/regression.*
+*.deb
